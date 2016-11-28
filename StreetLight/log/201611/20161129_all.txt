@@ -1,0 +1,168 @@
+
+ 
+记录时间：2016-11-29 01:12:10,741 
+线程ID:[10] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:13:32,517 
+线程ID:[9] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:15:57,912 
+线程ID:[10] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:16:21,554 
+线程ID:[15] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:16:33,696 
+线程ID:[16] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:16:40,299 
+线程ID:[29] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:17:26,729 
+线程ID:[9] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:17:38,363 
+线程ID:[29] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:40:22,517 
+线程ID:[9] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:42:10,319 
+线程ID:[12] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:43:34,636 
+线程ID:[5] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:43:40,983 
+线程ID:[13] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:45:09,422 
+线程ID:[23] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:47:31,936 
+线程ID:[5] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:47:33,974 
+线程ID:[13] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:49:42,528 
+线程ID:[37] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:51:47,153 
+线程ID:[45] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:53:03,920 
+线程ID:[15] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:53:33,040 
+线程ID:[45] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 01:53:37,635 
+线程ID:[41] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:21:27,350 
+线程ID:[8] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 

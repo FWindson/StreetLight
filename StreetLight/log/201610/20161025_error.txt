@@ -1,0 +1,8 @@
+
+ 
+记录时间：2016-10-25 00:12:53,696 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 

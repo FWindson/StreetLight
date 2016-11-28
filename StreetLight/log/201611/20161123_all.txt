@@ -1,0 +1,8 @@
+
+ 
+记录时间：2016-11-23 23:58:11,162 
+线程ID:[8] 
+日志级别：  INFO  
+信息类：StreetLight.Controllers.HomeController property: [(null)] - 
+描述：IP地址为：192.168.42.1的用户进入系统
+ 

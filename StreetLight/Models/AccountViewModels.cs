@@ -49,6 +49,11 @@ namespace StreetLight.Models
     public class LoginViewModel
     {
         [Required]
+        [StringLength(32)]
+        [Display(Name = "用户名")]
+        public string Name { get; set; }
+
+        [Required]
         [Display(Name = "电子邮件")]
         [EmailAddress]
         public string Email { get; set; }
@@ -64,6 +69,11 @@ namespace StreetLight.Models
 
     public class RegisterViewModel
     {
+        [Required]
+        [StringLength(32)]
+        [Display(Name = "用户名")]
+        public string Name { get; set; }
+
         [Required]
         [EmailAddress]
         [Display(Name = "电子邮件")]
