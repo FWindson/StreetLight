@@ -1,19 +1,14 @@
 ﻿import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { FormsModule } from '@angular/forms';
-import { ApplicationHome } from './Home/app.home';
+import { AppComponent } from './app.component';
+import { ApplicationHome } from './home/app.home';
 
 @NgModule({
     imports: [
-        BrowserModule,
-        FormsModule,
-        ApplicationHome
+        BrowserModule
     ],
     declarations: [ApplicationHome],
     bootstrap: [ApplicationHome]
 })
 export class AppModule {
-    constructor() {
-        console.log('start AppModule');
-    }
 }

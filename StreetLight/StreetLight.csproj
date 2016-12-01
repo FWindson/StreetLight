@@ -252,7 +252,7 @@
     <Content Include="Models\EntityFrameworkModels.edmx.diagram">
       <DependentUpon>EntityFrameworkModels.edmx</DependentUpon>
     </Content>
-    <Content Include="NgApps\Home\app.home.css" />
+    <None Include="NgApps\home\app.home.less" />
     <Content Include="package.json" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -264,7 +264,7 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="NgApps\Home\app.home.html" />
+    <Content Include="NgApps\home\app.home.html" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.1.1.js" />
     <Content Include="Scripts\jquery-3.1.1.min.js" />
@@ -332,9 +332,10 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="NgApps\app.component.ts" />
     <TypeScriptCompile Include="NgApps\app.module.ts" />
     <TypeScriptCompile Include="NgApps\dashboard\app.dashboard.ts" />
-    <TypeScriptCompile Include="NgApps\Home\app.home.ts" />
+    <TypeScriptCompile Include="NgApps\home\app.home.ts" />
     <TypeScriptCompile Include="NgApps\main.ts" />
   </ItemGroup>
   <PropertyGroup>
@@ -364,7 +365,7 @@
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
-      <UserProperties typings_1json__JSONSchema="" />
+      <UserProperties typings_1json__JSONSchema="" package_1json__JSONSchema="" />
     </VisualStudio>
   </ProjectExtensions>
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

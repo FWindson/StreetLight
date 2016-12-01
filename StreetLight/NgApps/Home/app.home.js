@@ -11,12 +11,13 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var core_1 = require('@angular/core');
 var ApplicationHome = (function () {
     function ApplicationHome() {
+        this.name = "Windson";
     }
     ApplicationHome = __decorate([
         core_1.Component({
             selector: 'app-home',
-            templateUrl: '',
-            styleUrls: [''],
+            templateUrl: 'NgApps/home/app.home.html',
+            styleUrls: ['NgApps/home/app.home.less']
         }), 
         __metadata('design:paramtypes', [])
     ], ApplicationHome);

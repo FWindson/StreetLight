@@ -166,3 +166,163 @@
 出错类：StreetLight.Controllers.HomeController property: [(null)] - 
 错误描述：IP地址为：192.168.42.1的用户进入系统
  
+
+ 
+记录时间：2016-11-29 02:45:59,942 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:50:33,208 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:50:35,935 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:51:04,245 
+线程ID:[27] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:52:33,201 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:52:44,211 
+线程ID:[22] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:53:13,990 
+线程ID:[26] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:53:16,114 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:54:37,199 
+线程ID:[31] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:55:21,336 
+线程ID:[24] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:55:23,818 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:57:49,362 
+线程ID:[30] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 02:58:05,975 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 03:01:11,783 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 03:03:15,724 
+线程ID:[27] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 03:03:38,804 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 03:06:06,592 
+线程ID:[39] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 03:08:29,190 
+线程ID:[50] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 03:09:04,863 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
+
+ 
+记录时间：2016-11-29 03:09:42,296 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：StreetLight.Controllers.HomeController property: [(null)] - 
+错误描述：IP地址为：192.168.42.1的用户进入系统
+ 
